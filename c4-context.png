@@ -1,0 +1,38 @@
+# Presentation Outline — Nobat One
+
+## Slide 1 — Title
+Nobat One  
+Universal Queue Management Platform
+
+## Slide 2 — Problem
+Manual queues are inefficient and frustrating.
+
+## Slide 3 — Solution
+Join queue remotely, track wait time, manage flow digitally.
+
+## Slide 4 — Target Users
+Customers, business staff, business owners.
+
+## Slide 5 — Requirements
+5+ functional requirements, measurable NFRs, 8 user stories, 3 use cases.
+
+## Slide 6 — Architecture
+C4 context, container, component, and ERD.
+
+## Slide 7 — API
+Main endpoints for customer and dashboard features.
+
+## Slide 8 — UI/UX Mockups
+Home, service page, join queue, queue status, business dashboard.
+
+## Slide 9 — Demo
+Working local prototype.
+
+## Slide 10 — Process
+GitHub issues, project board, PR workflow, lessons learned.
+
+## Slide 11 — Roadmap
+MVP -> reservations -> analytics -> AI wait-time prediction.
+
+## Slide 12 — Closing
+Why Nobat One matters and what comes next.
